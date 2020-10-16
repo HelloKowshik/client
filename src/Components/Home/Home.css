@@ -1,0 +1,23 @@
+img{
+    height: 320px;
+    width: 270px;
+}
+
+.img{
+    position: relative;
+}
+
+.topbar{
+    margin: 70px auto;
+}
+
+.title{
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+}
+
+.card-body{
+    background-color: orangered;
+    color: whitesmoke !important;
+}
